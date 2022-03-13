@@ -11,4 +11,20 @@ h2{
 
 p{
     text-align: justify;
+    color: red;
+}
+
+.ariana{
+    height: 612px;
+    width: 512px;
+}
+
+.camila{
+    height: 512px;
+    width: 720px;
+}
+
+.selina{
+    height: 612px;
+    width: 512px;
 }
